@@ -1,7 +1,7 @@
 # Electric Kart Simulation (Academic Project)
 
 This repository contains the work completed as part of a **modeling course at EiCNAM**.  
-The project focuses on developing and testing a simulation model of an **electric kart**, emphasizing system-level understanding and component interaction.
+The project focuses on developing and testing a **simple** simulation model of an **electric kart**, emphasizing system-level understanding and component interaction.
 
 ---
 
